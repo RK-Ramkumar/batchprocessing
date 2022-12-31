@@ -1,0 +1,6 @@
+Id,Name,Category,Habitable
+1,Earth,IBP,Yes
+2,Neptume,OBP,No
+3,Venus,IBP,No
+4,Titan,OBP,Yes
+5,Mars,IBP,Yes
